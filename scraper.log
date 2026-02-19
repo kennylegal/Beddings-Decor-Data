@@ -62,3 +62,16 @@
 2026-02-19 17:48:21,613 - ERROR - An error occured trying to get data from page 10 to jumia: HTTPSConnectionPool(host='www.jumia.com.ng', port=443): Max retries exceeded with url: /catalog/?q=duvet+bedsheets+and+pillowcases&page=10 (Caused by NameResolutionError("HTTPSConnection(host='www.jumia.com.ng', port=443): Failed to resolve 'www.jumia.com.ng' ([Errno 11001] getaddrinfo failed)"))
 2026-02-19 17:48:21,616 - ERROR - An error occured trying to get data from page 11 to jumia: HTTPSConnectionPool(host='www.jumia.com.ng', port=443): Max retries exceeded with url: /catalog/?q=duvet+bedsheets+and+pillowcases&page=11 (Caused by NameResolutionError("HTTPSConnection(host='www.jumia.com.ng', port=443): Failed to resolve 'www.jumia.com.ng' ([Errno 11001] getaddrinfo failed)"))
 2026-02-19 17:48:21,616 - INFO - Scrapping finished.
+2026-02-19 17:55:54,652 - INFO - Logger initialized
+2026-02-19 17:55:56,430 - INFO - Connected to Jumia..Scrapping 1 page data
+2026-02-19 17:55:56,979 - INFO - Connected to Jumia..Scrapping 2 page data
+2026-02-19 17:55:58,205 - INFO - Connected to Jumia..Scrapping 3 page data
+2026-02-19 17:55:58,931 - INFO - Connected to Jumia..Scrapping 4 page data
+2026-02-19 17:55:59,536 - INFO - Connected to Jumia..Scrapping 5 page data
+2026-02-19 17:56:00,104 - INFO - Connected to Jumia..Scrapping 6 page data
+2026-02-19 17:56:00,586 - INFO - Connected to Jumia..Scrapping 7 page data
+2026-02-19 17:56:01,185 - INFO - Connected to Jumia..Scrapping 8 page data
+2026-02-19 17:56:01,694 - INFO - Connected to Jumia..Scrapping 9 page data
+2026-02-19 17:56:02,406 - INFO - Connected to Jumia..Scrapping 10 page data
+2026-02-19 17:56:02,955 - INFO - Connected to Jumia..Scrapping 11 page data
+2026-02-19 17:56:03,013 - INFO - Scrapping finished.
